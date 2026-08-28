@@ -1,0 +1,489 @@
+# Telecom Knowledge Base
+
+## Purpose
+This document is a generic knowledge base for a Retrieval-Augmented Generation (RAG) telecom customer-support chatbot. It uses fictional/generic telecom policies so the chatbot can answer questions from retrieved context without relying on a real carrier's current policies.
+
+---
+
+# 1. Mobile Service Basics
+
+A mobile telecom service normally provides some combination of:
+- Mobile voice calling
+- SMS messaging
+- Mobile data
+- 4G/LTE and 5G connectivity
+- International roaming
+- Prepaid recharge
+- Postpaid billing
+- SIM and eSIM services
+- Number portability
+
+A mobile account may contain a customer identity, phone number, active plan, billing information, service status, and usage information.
+
+## Prepaid vs Postpaid
+
+### Prepaid
+The customer pays before using the service. A recharge adds balance or activates a plan.
+
+Typical characteristics:
+- No monthly bill is generated for normal usage.
+- Service depends on available balance or an active plan.
+- Plans may have validity periods.
+- When validity expires, some services may stop or become restricted.
+
+### Postpaid
+The customer uses the service during a billing cycle and receives a bill afterward.
+
+Typical characteristics:
+- A monthly billing cycle.
+- Usage is accumulated during the cycle.
+- Payment is due by a specified due date.
+- Additional charges may appear for services outside the included plan.
+
+---
+
+# 2. SIM and eSIM
+
+## Physical SIM
+
+A physical SIM is a removable card inserted into a compatible phone. It identifies the mobile subscription to the network.
+
+Common SIM sizes:
+- Nano SIM
+- Micro SIM
+- Standard SIM
+
+Most modern smartphones use Nano SIM.
+
+## eSIM
+
+An eSIM is a digital SIM built into a compatible device. Instead of inserting a physical card, the customer activates a mobile profile electronically.
+
+Typical activation process:
+1. Confirm that the phone supports eSIM.
+2. Confirm that the telecom account supports eSIM.
+3. Obtain an activation QR code or activation details from the provider.
+4. Open mobile-network settings.
+5. Add a cellular/eSIM plan.
+6. Scan or enter the activation information.
+7. Follow the device's activation instructions.
+
+## SIM Replacement
+
+A SIM may need replacement if it is:
+- Lost
+- Damaged
+- Not detected
+- Suspected to be compromised
+
+A replacement normally requires customer verification according to the provider's identity-verification procedure.
+
+---
+
+# 3. Mobile Network Generations
+
+## 2G
+2G networks were designed mainly for voice calls and SMS, with limited data capabilities.
+
+## 3G
+3G improved mobile internet speeds and supported better mobile data services than 2G.
+
+## 4G / LTE
+4G provides significantly faster mobile data and lower latency than older generations. It is commonly used for:
+- Video streaming
+- Web browsing
+- App usage
+- Video calls
+- Online gaming
+
+## 5G
+5G is a newer mobile-network generation designed to provide:
+- Higher potential speeds
+- Lower latency
+- Greater network capacity
+- Better support for high-density areas and connected devices
+
+Actual 5G performance depends on device compatibility, network coverage, spectrum, congestion, signal conditions, and the customer's plan.
+
+---
+
+# 4. Network Signal and Coverage
+
+Signal quality can be affected by:
+- Distance from a cell tower
+- Buildings and walls
+- Underground locations
+- Terrain
+- Weather conditions
+- Network congestion
+- Device hardware
+- SIM configuration
+- Network outages
+
+A strong signal indicator does not always guarantee high internet speed. Speed can also be affected by congestion and available network capacity.
+
+## Basic Network Troubleshooting
+
+If mobile data is not working:
+
+1. Confirm that mobile data is enabled.
+2. Check whether airplane mode is enabled.
+3. Restart the phone.
+4. Check whether the correct SIM is selected for mobile data.
+5. Check the network mode settings.
+6. Move to an area with better coverage.
+7. Check whether the plan has remaining data or validity.
+8. Verify the APN settings if required.
+9. Try temporarily switching network mode.
+10. Contact support if the problem continues.
+
+If calls are failing:
+
+1. Check network signal.
+2. Restart the device.
+3. Check whether call barring is enabled.
+4. Confirm that the SIM is active.
+5. Check whether there is a network outage.
+6. Test another location.
+7. Contact support if the issue persists.
+
+---
+
+# 5. Mobile Data
+
+Mobile data allows a phone to access the internet through the cellular network.
+
+Common activities that consume data:
+- Video streaming
+- Social media
+- Video calls
+- Cloud backups
+- App updates
+- Music streaming
+- File downloads
+- Web browsing
+
+Video streaming generally consumes more data than text messaging or normal web browsing.
+
+## Data Usage Troubleshooting
+
+If data is being consumed unexpectedly:
+- Check the phone's per-app data usage.
+- Disable background data for unnecessary applications.
+- Reduce video streaming quality.
+- Disable automatic downloads over mobile data.
+- Check cloud backup settings.
+- Check hotspot usage.
+- Review the telecom account's usage records.
+
+---
+
+# 6. Voice Calls and SMS
+
+Voice calls use the telecom network to establish a connection between phone numbers.
+
+SMS is a text messaging service that is separate from internet-based messaging applications.
+
+Examples of internet messaging applications include services that use mobile data or Wi-Fi instead of traditional SMS.
+
+## Call Quality Problems
+
+Poor call quality can be caused by:
+- Weak signal
+- Network congestion
+- Indoor coverage limitations
+- Device issues
+- SIM issues
+- Network outages
+
+Basic troubleshooting:
+- Move to a location with better signal.
+- Restart the device.
+- Check network settings.
+- Test another call.
+- Check whether other customers in the same area have the issue.
+
+---
+
+# 7. Mobile Plans
+
+A mobile plan can contain:
+- Data allowance
+- Voice allowance
+- SMS allowance
+- Plan validity
+- Monthly or recharge price
+- 4G/5G access
+- Roaming options
+- Additional service benefits
+
+Customers should check the exact plan terms before assuming that a service is included.
+
+## Example Generic Plan
+
+Plan name: Smart Connect 30
+
+Included:
+- 30 GB mobile data
+- Unlimited domestic voice calls
+- 100 SMS per day
+- 30-day validity
+- 5G access where available
+
+This is a fictional example for chatbot testing and is not a real carrier plan.
+
+---
+
+# 8. Recharge
+
+A prepaid customer can recharge an account to add balance or activate a plan.
+
+Typical recharge methods:
+- Provider website
+- Provider mobile application
+- Authorized retail outlet
+- Supported digital payment method
+
+Before completing a recharge, verify:
+- Correct mobile number
+- Correct plan
+- Correct amount
+- Validity period
+
+## Recharge Problems
+
+If money is deducted but the recharge is not activated:
+1. Keep the payment transaction reference.
+2. Check the account balance and plan status.
+3. Wait for the transaction status to update if the provider indicates processing.
+4. Avoid making repeated payments immediately.
+5. Contact customer support with the transaction reference if the recharge remains missing.
+
+---
+
+# 9. Billing
+
+A postpaid bill may include:
+- Monthly plan charge
+- Taxes
+- Additional data charges
+- International roaming charges
+- Premium services
+- Other applicable fees
+
+## Bill Higher Than Expected
+
+Possible causes include:
+- Extra data usage
+- Roaming usage
+- International calls
+- Premium services
+- Additional subscriptions
+- Taxes or fees
+- Charges from a previous billing period
+
+The customer should review the itemized bill to identify the source of the additional charge.
+
+---
+
+# 10. Billing Cycle and Due Date
+
+A billing cycle is the period during which usage is recorded.
+
+Example:
+- Billing cycle: 1st to 30th of the month
+- Bill generated: 1st of the next month
+- Payment due: 15th of the next month
+
+These dates are only examples. Actual dates depend on the telecom provider and account.
+
+Missing a payment deadline may result in:
+- Late fees
+- Service restrictions
+- Temporary suspension
+
+Customers should follow the payment terms associated with their account.
+
+---
+
+# 11. International Roaming
+
+International roaming allows a customer to use mobile services while connected to a partner network outside their home country.
+
+Possible roaming services:
+- Voice calls
+- SMS
+- Mobile data
+
+Roaming charges can be significantly different from domestic charges.
+
+Before travelling:
+1. Check whether roaming is enabled.
+2. Review roaming rates or available roaming packs.
+3. Confirm destination coverage.
+4. Check whether the phone supports the destination's network bands.
+5. Consider disabling mobile data roaming if it is not needed.
+
+## Avoiding Unexpected Roaming Data Charges
+
+- Disable data roaming when unnecessary.
+- Use Wi-Fi where appropriate.
+- Disable automatic app updates over mobile data.
+- Monitor data usage.
+- Purchase a suitable roaming package when available.
+
+---
+
+# 12. Number Portability
+
+Mobile number portability allows a customer to move their existing phone number from one telecom provider to another, subject to applicable rules and eligibility requirements.
+
+A typical process may involve:
+1. Requesting portability.
+2. Completing identity verification.
+3. Receiving a porting authorization code where applicable.
+4. Submitting the request to the new provider.
+5. Completing the required verification.
+6. Waiting for the porting process to complete.
+7. Activating the new SIM.
+
+The exact process, eligibility rules, fees, and timelines depend on the country and telecom providers.
+
+---
+
+# 13. 5G Troubleshooting
+
+If a compatible phone does not show 5G:
+
+1. Confirm the phone supports the required 5G bands.
+2. Confirm the SIM/account supports 5G.
+3. Check whether the current location has 5G coverage.
+4. Enable 5G in the phone's preferred network settings.
+5. Restart the phone.
+6. Check for software updates.
+7. Check whether the selected plan provides 5G access.
+8. Test the connection outdoors or in another location.
+
+A 5G icon may not always mean maximum possible speed because performance depends on network conditions.
+
+---
+
+# 14. APN
+
+APN stands for Access Point Name.
+
+An APN provides configuration information that allows a mobile device to connect to a carrier's packet-data network.
+
+APN settings can include:
+- APN name
+- Username
+- Password
+- Authentication type
+- MCC
+- MNC
+
+Customers should use the official APN settings provided by their telecom operator. Incorrect APN settings can prevent mobile data from working.
+
+---
+
+# 15. Hotspot / Tethering
+
+A mobile hotspot allows a phone to share its mobile internet connection with another device.
+
+Hotspot usage can consume data quickly because connected devices may perform:
+- Software updates
+- Cloud synchronization
+- Video streaming
+- Large downloads
+
+If hotspot is slow:
+- Move to an area with better signal.
+- Reduce the number of connected devices.
+- Check mobile data usage.
+- Disconnect unnecessary devices.
+- Check the plan's hotspot restrictions if applicable.
+
+---
+
+# 16. Common Customer Questions
+
+### Q: Why is my mobile internet slow?
+Possible causes include weak signal, network congestion, limited coverage, device settings, or exhausted high-speed data allowance.
+
+### Q: Why can't I make calls?
+Check signal strength, SIM status, network settings, account status, and possible network outages.
+
+### Q: Why is my 5G not working?
+Check device compatibility, 5G coverage, account eligibility, network settings, and SIM support.
+
+### Q: How can I reduce mobile data usage?
+Check per-app usage, disable unnecessary background data, reduce streaming quality, and limit automatic downloads.
+
+### Q: What should I do if my SIM is lost?
+Contact the telecom provider immediately and request SIM blocking/replacement according to the provider's verification procedure.
+
+### Q: What should I do if my recharge failed?
+Check the payment status and transaction reference. Do not repeatedly pay until the previous transaction's status is known.
+
+### Q: Why is my postpaid bill higher?
+Review the itemized bill for extra data, roaming, international calls, subscriptions, taxes, or other additional charges.
+
+### Q: Can I use my SIM abroad?
+It depends on international roaming availability, destination coverage, account settings, and the applicable roaming terms.
+
+---
+
+# 17. Customer Support Escalation
+
+A chatbot should escalate an issue when:
+- The customer reports an account-specific problem that requires authentication.
+- A payment dispute cannot be resolved from available information.
+- A SIM replacement requires identity verification.
+- There is a suspected account-security problem.
+- A network outage requires operator-side investigation.
+- The customer requests cancellation or another restricted account action.
+- The knowledge base does not contain enough information to answer confidently.
+
+The chatbot should not invent account details, charges, policies, or troubleshooting results.
+
+---
+
+# 18. RAG Answering Rules
+
+For this RAG project, the chatbot should:
+
+1. Answer using retrieved knowledge-base context.
+2. Prefer the most relevant retrieved chunks.
+3. Avoid inventing information not present in the retrieved context.
+4. If the context is insufficient, clearly say that the available information is insufficient.
+5. Distinguish fictional examples from real customer/account information.
+6. Give concise and practical troubleshooting steps.
+7. Escalate account-specific or verification-required issues to human support.
+
+---
+
+# 19. Example RAG Questions
+
+Use these questions to test retrieval:
+
+1. What is the difference between prepaid and postpaid?
+2. What is an eSIM?
+3. Why is my mobile data slow?
+4. What can cause poor call quality?
+5. How do I troubleshoot 5G?
+6. What is APN?
+7. How can I reduce mobile data usage?
+8. What should I do before international travel?
+9. Why might my postpaid bill be higher?
+10. What is mobile number portability?
+11. What should I do if my SIM is lost?
+12. Why can a strong signal still result in slow internet?
+13. What can consume mobile data unexpectedly?
+14. What is the difference between 4G and 5G?
+15. When should a telecom chatbot escalate an issue?
+
+---
+
+# 20. Important Disclaimer
+
+This knowledge base is created for software/RAG learning and testing. The plans, prices, examples, policies, and procedures described as examples are fictional or generic. A production telecom chatbot should use verified, current documentation from the actual telecom provider.
